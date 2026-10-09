@@ -1,4 +1,4 @@
-package PROJECTJAVA.src.PERTEMUAN7;
+
 import java.util.Scanner;
 
 public class StudiKasus1282 {
